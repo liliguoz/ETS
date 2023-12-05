@@ -34,7 +34,17 @@
 
 [IES Puerto de la Cruz-Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/)
 
-![logo institulo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2023/01/logotipo-fondo-transparente.png "IES Puerto de la Cruz-Telesforo Brtavo")
+![logo institulo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/wp-content/uploads/sites/408/2023/01/logotipo-fondo-transparente.png "IES Puerto de la Cruz-Telesforo Bravo")
+
+#### OPINIÓN DEL CENTRO
+> Muy buenos profesores en el ciclo superior de ARI.
+
+> Excelente instituto!
+
+> Soy estudiante de la eso y los profes son una maravilla 
+
+#### VIDEO DEL CENTRO 
+<a href="https://www.youtube.com/watch?v=ry1PkXs5v8Q"> Video </a>
 
 #### ASISTENCIAS DÍA 5/12/2023
 

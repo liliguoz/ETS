@@ -1,6 +1,6 @@
 # ALUMNOS 
 <!-- Insertamos una foto como decoración -->
-![hornos](https://fg.ull.es/noticias/wp-content/uploads/sites/2/2019/03/foto.jpg)
+![hornos](https://fg.ull.es/noticias/wp-content/uploads/sites/2/2019/03/foto.jpg "IES Puerto de la Cruz")
 
 ---
 <!-- Realizamos un título con una lista ordenada de la clase -->

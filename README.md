@@ -1,6 +1,6 @@
 # ALUMNOS 
 <!-- Insertamos una foto como decoración -->
-![hornos](https://www.tenerife.es/portalcabtfe/images/Img/Temas/PatrimonioHistorico/BIC/PuertoDeLaCruz/1193/P1010159.JPG)
+![hornos](https://www.tenerife.es/portalcabtfe/images/Img/Temas/PatrimonioHistorico/BIC/PuertoDeLaCruz/1193/P1010159.JPG "IES Puerto de la Cruz-Telesforo Bravo")
 
 ---
 <!-- Realizamos un título con una lista ordenada de la clase -->

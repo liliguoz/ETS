@@ -1,6 +1,7 @@
 # ALUMNOS 
 <!-- Insertamos una foto como decoración -->
 ![hornos](https://fg.ull.es/noticias/wp-content/uploads/sites/2/2019/03/foto.jpg)
+
 ---
 <!-- Realizamos un título con una lista ordenada de la clase -->
 ### LISTA DE CLASE ORDENADA

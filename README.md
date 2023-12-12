@@ -1,6 +1,6 @@
 # ALUMNOS 
 <!-- Insertamos una foto como decoración -->
-![hornos de cal](https://fg.ull.es/noticias/wp-content/uploads/sites/2/2019/03/foto.jpg "IES Puerto de la Cruz-Telesforo Bravo")
+![hornos](https://fg.ull.es/noticias/wp-content/uploads/sites/2/2019/03/foto.jpg "IES Puerto de la Cruz-Telesforo Bravo")
 ---
 <!-- Realizamos un título con una lista ordenada de la clase -->
 ### LISTA DE CLASE ORDENADA

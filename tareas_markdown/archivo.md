@@ -1,11 +1,12 @@
-<!-- Creamos un títuto dondo e insertamos una imahgen de portada -->
-# Métodos del desarrollo software
+<!-- Creamos un títuto dondo e insertamos una imagen de portada -->
+<h1 align="center"> Métodos del desarrollo software </h1>
 
 ![](https://smartrural.net/wp-content/uploads/desarrollo-de-sotware-smartrural.png)
 
 <!-- Seguidamente hacemos subtítulos y definimos que son los metodos tradicionales de desarrollo de software y sus fases además de poner una imagen -->
 ## Método Tradicional de Desarrollo de Software:
 El método tradicional, también conocido como modelo en cascada o enfoque de desarrollo secuencial, es un enfoque lineal y secuencial para el desarrollo de software. En este modelo, el proceso de desarrollo se divide en fases distintas, y cada fase debe completarse antes de pasar a la siguiente.
+
 #### Fases del Método Tradicional:
 
 1. **Análisis de Requisitos:**

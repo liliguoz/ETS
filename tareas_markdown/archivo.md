@@ -1,7 +1,9 @@
 <!-- Creamos un títuto dondo e insertamos una imagen de portada -->
 <h1 align="center"> Métodos del desarrollo software </h1>
 
-![](https://smartrural.net/wp-content/uploads/desarrollo-de-sotware-smartrural.png)
+<div align="center">
+<img src="https://smartrural.net/wp-content/uploads/desarrollo-de-sotware-smartrural.png" width="500px"/>
+</div>
 
 <!-- Seguidamente hacemos subtítulos y definimos que son los metodos tradicionales de desarrollo de software y sus fases además de poner una imagen -->
 ## Método Tradicional de Desarrollo de Software:

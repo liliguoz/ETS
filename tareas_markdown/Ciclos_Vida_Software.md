@@ -3,8 +3,7 @@ El ciclo de vida de un software es una secuencia estructurada y bien definida de
 
 Lo describe desde el inicio hasta el final, con el objetivo de definir las distintas fases intermedias para validar el desarrollo de la aplicación y confirmar que cumpla con los requisitos de verificación.
 
-**Etapas** 
-Las principales etapas que forman el ciclo de vida de desarrollo de software son:
+#### **Etapas**: 
 
 - **Planificación**
 En esta fase se incluyen tareas como la determinación del ámbito del proyecto, un estudio de viabilidad, análisis de riesgos, costes estimados, asignación de recursos en las distintas etapas, etc. Son tareas que influyen en el éxito del proyecto, por eso es necesaria una planificación inicial.

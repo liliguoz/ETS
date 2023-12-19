@@ -1,3 +1,4 @@
+<!-- Se comienza con un título el cual se centra para que tenga una mejor estética el markdown. asimismo procedemos a definir que son los ciclos de vida de un software, agregamos las etapas en las que pasa también -->
 <h1 align="center"> Ciclos de Vida Software </h1>
 El ciclo de vida de un software es una secuencia estructurada y bien definida de las etapas en ingeniería de software para desarrollar el software deseado.
 
@@ -26,6 +27,7 @@ En esta fase pondremos el software en funcionamiento.
 - **Uso y mantenimiento**
 Este es un momento crucial dentro del ciclo de vida de un software.
 
+<!-- Prodecemos a definir los diferentes modelos que hay de ciclos del software, incluyendo en cada una de las definiciones una imagen -->
 ### Modelo en Cascada:
 En este modelo del ciclo de vida de un software, se espera a finalizar una etapa para comenzar con la siguiente. Es un proceso secuencial en el que el desarrollo va fluyendo de arriba hacia abajo. Aunque en ocasiones ha sido criticado debido a su rigidez, sigue siendo el más seguido a día de hoy.
 
@@ -52,6 +54,7 @@ En cada bucle se siguen cuatro tareas:
 
 ![](https://www.solusoft.es/Info/Imagenes/desarrollo-de-software/img_hero.svg)
 
+<!-- Por último procedemos a adjuntar un video explicativo en el cual nos ayudará a entender mejor los conceptos -->
 ### Video explicativo
 
 [![vé al siguiente video](https://softwarewebsas.com/public/images/blog/dev.webp)](https://youtu.be/MsrauUoOffU?t=52)

@@ -47,7 +47,7 @@ El trabajo pendiente del sprint, tal y como comentábamos, es la lista de tareas
 El Daily Scrum Meeting es una reunión diaria de unos 15 minutos de duración. Esta breve reunión reúne al equipo de trabajo Scrum con un objetivo claro: sincronizar las tareas hacia la meta del sprint y ajustar el sprint backlog según sea necesario.
 
 <div align="center">
-<img src="https://standuply.com/blog/wp-content/uploads/2022/01/713158b01a2c8c580e121343d12d07dc.jpg" />
+<img src="https://standuply.com/blog/wp-content/uploads/2022/01/713158b01a2c8c580e121343d12d07dc.jpg" width="400" height="250/> 
 </div>
 
 ### ¿Cuántas personas componen un equipo?

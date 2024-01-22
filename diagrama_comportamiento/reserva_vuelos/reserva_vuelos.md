@@ -62,7 +62,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
   |Fecha | 22/01/2024 |
-    ---
+
+  ---
 
   #### Reservar vuelos
   |  Caso de Uso	CU | Reservar vuelos  |
@@ -77,7 +78,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
   |Fecha | 22/01/2024 |
-      ---
+
+  ---
 
   #### Actualización de vuelos
   |  Caso de Uso	CU | Actualziación de vuelos  |

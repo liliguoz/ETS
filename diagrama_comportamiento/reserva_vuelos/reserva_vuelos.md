@@ -33,23 +33,24 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 ## Casos de uso
 
 #### Gestión de la maleta
-  |  Caso de Uso	CU | Gestión de la maleta  |
-  |---|---|
-  | Fuentes  | Reserva de vuelos |
-  | Actor  |  Pasajero y agente de reservas |
-  | Descripción | Gestión de trámites por los cuales una maleta tiene que ser aceptada para entrar  |
-  | Flujo básico | Para empezar, el agente dentrá que tener todos los vuelos actualizados con sus respectivos horios para que el apsajero decida cuál es el mejor para él en lo que respecta a su situación. Asimismo, una vez reservado el vuelo y hacer los trámites corresponientes deberá de destionar tanto el agente como el pasajero la maleta. El pasajero deberá llevar en ella todo lo que le sea útil y posible de llevar, mientras que el agente deberá de concretar en el billete del avión la maleta que llevará con el máximo de kilos |
-  | Pre-condiciones | El apsajero debe haber comprado el billete con las especificaciones de su maleta sin sobrepasar los máximos de peso, además deberá aportar la documentación correspondiente apra ser identificado  |  
-  | Post-condiciones  | Una vez hecho todo lo anterior de forma corresta, el pasajero lo unico que puede hacer es esperar a llegar a su destino y ahí esperar a que su maleta llegue a la cinta para poder recogerla  |  
-  |  Requerimientos | DNI y billete de avión  |
-  |  Notas |  No hay |
-  | Autor  | Lili Guo Zeng |
-  |Fecha | 22/01/2024 |
+
+|  Caso de Uso	CU | Gestión de la maleta  |
+|---|---|
+| Fuentes  | Reserva de vuelos |
+| Actor  |  Pasajero y agente de reservas |
+| Descripción | Gestión de trámites por los cuales una maleta tiene que ser aceptada para entrar  |
+| Flujo básico | Para empezar, el agente dentrá que tener todos los vuelos actualizados con sus respectivos horios para que el apsajero decida cuál es el mejor para él en lo que respecta a su situación. Asimismo, una vez reservado el vuelo y hacer los trámites corresponientes deberá de destionar tanto el agente como el pasajero la maleta. El pasajero deberá llevar en ella todo lo que le sea útil y posible de llevar, mientras que el agente deberá de concretar en el billete del avión la maleta que llevará con el máximo de kilos |
+| Pre-condiciones | El apsajero debe haber comprado el billete con las especificaciones de su maleta sin sobrepasar los máximos de peso, además deberá aportar la documentación correspondiente apra ser identificado  |  
+| Post-condiciones  | Una vez hecho todo lo anterior de forma corresta, el pasajero lo unico que puede hacer es esperar a llegar a su destino y ahí esperar a que su maleta llegue a la cinta para poder recogerla  |  
+|  Requerimientos | DNI y billete de avión  |
+|  Notas |  No hay |
+| Autor  | Lili Guo Zeng |
+|Fecha | 22/01/2024 |
 
   ---
 
   #### Búsqueda de vuelos
-    |  Caso de Uso	CU | Busqueda de vuelos  |
+  |  Caso de Uso	CU | Busqueda de vuelos  |
   |---|---|
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Pasajero  |
@@ -64,7 +65,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
     ---
 
   #### Reservar vuelos
-    |  Caso de Uso	CU | Reservar vuelos  |
+  |  Caso de Uso	CU | Reservar vuelos  |
   |---|---|
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Pasajero  |
@@ -79,7 +80,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
       ---
 
   #### Actualización de vuelos
-    |  Caso de Uso	CU | Actualziación de vuelos  |
+  |  Caso de Uso	CU | Actualziación de vuelos  |
   |---|---|
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Agentes de reservas  |
@@ -95,7 +96,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   ---
 
   #### Cancelación de vuelos
-    |  Caso de Uso	CU | Cancelación de vuelos  |
+  |  Caso de Uso	CU | Cancelación de vuelos  |
   |---|---|
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Agentes de reservas  |

@@ -40,10 +40,25 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 | Actor  |  Administrador y cliente |
 | Descripción | Se revisa por parte de el administrador el catálogo para ver las actualizaciones y las fallas y por parte de el cliente lo usará para ver las diferentes ofertar y lo que ofrece la tienda para vender |
 | Flujo básico | Para poder ver el catálogo, el administrador tendrá que actualizar el catálogo y subir todas estas nuevas actualizaciones al catálogo. Por tanto, podrá ver el catálogo el cliente y el administrador para ver las posibles fallas |
-| Pre-condiciones | Actuslización  de el catálogo |  
+| Pre-condiciones | Actualización  de el catálogo |  
 | Post-condiciones  | Que esté actualizado el catálogo y disponible para la compra de productos  |  
 |  Requerimientos | Tarjeta de crédito y actualización  del catálogo |
 |  Notas |  No hay |
 | Autor  | Lili Guo Zeng |
 |Fecha | 23/01/2024 |
 
+---
+#### Realizar compras
+
+|  Caso de Uso	CU | Realizar compras  |
+|---|---|
+| Fuentes  | Gestón tienda en línea |
+| Actor  |  Cliente |
+| Descripción | El cliente formaliza la compra de el objeto |
+| Flujo básico | Para poder ver el catálogo, el administrador tendrá que actualizar el catálogo y subir todas estas nuevas actualizaciones al catálogo. Por tanto, podrá ver el catálogo el cliente y el administrador para ver las posibles fallas , asimismo una vez hecho todo lo anterior se podrá realizar compras por porte del cliente|
+| Pre-condiciones | Actualización de el catálogo y posibilidad de compra |  
+| Post-condiciones  | Que esté actualizado el catálogo y disponible para la compra de productos  |  
+|  Requerimientos | Tarjeta de crédito y actualización  del catálogo |
+|  Notas |  No hay |
+| Autor  | Lili Guo Zeng |
+|Fecha | 23/01/2024 |

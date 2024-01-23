@@ -82,7 +82,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 ---
 #### Pedir inventario
 
-|  Caso de Uso	CU | Gestionar inventario |
+|  Caso de Uso	CU | Pedir inventario |
 |---|---|
 | Fuentes  | Gestón tienda en línea |
 | Actor  |  Administrador |

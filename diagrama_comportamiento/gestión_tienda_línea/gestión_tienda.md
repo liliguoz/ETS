@@ -4,7 +4,19 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![imagen](https://github.com/liliguoz/ETS/assets/145054491/0a5a8aa3-da5a-4cdb-901b-be6a6e9d778c)
 
-|  Actor |  |
+|  Actor | Cliente |
+|---|---|
+| Descripción  | Persona que va a comprar productos, etc |
+| Características  | Persona que compra y revisa los productos respecto a sus necesidades|
+| Relaciones |   |
+| Referencias | _Que casos de uso realiza_ |   
+|  Notas |  _Notas adicionales_ |
+| Autor  | _Quien desarrolla la especificación del actor_ |
+|Fecha | _Fecha de la especificación_ |
+
+---
+
+|  Actor | Administrador |
 |---|---|
 | Descripción  | _Breve descripción del actor_  |
 | Características  | _Características que describen al actor_ |

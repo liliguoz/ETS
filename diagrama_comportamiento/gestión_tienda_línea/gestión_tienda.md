@@ -62,3 +62,35 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 |  Notas |  No hay |
 | Autor  | Lili Guo Zeng |
 |Fecha | 23/01/2024 |
+
+---
+#### Gestionar inventario
+
+|  Caso de Uso	CU | Gestionar inventario |
+|---|---|
+| Fuentes  | Gestón tienda en línea |
+| Actor  |  Administrador |
+| Descripción | Se gestiona la cantidad de inventario que hay para vender, la reserva que hay de productos, la anotación del inventario, etc |
+| Flujo básico | Antes de poner la actualización del inventario se debe de realizar un conteo de la cantidad de stock que hay, asimismo de debe de registrar lo que falta, sobra, etc|
+| Pre-condiciones | Conteo de stock |  
+| Post-condiciones  | Tener todo el stock contado y registrado |  
+|  Requerimientos | Registros |
+|  Notas |  No hay |
+| Autor  | Lili Guo Zeng |
+|Fecha | 23/01/2024 |
+
+---
+#### Pedir inventario
+
+|  Caso de Uso	CU | Gestionar inventario |
+|---|---|
+| Fuentes  | Gestón tienda en línea |
+| Actor  |  Administrador |
+| Descripción | Se gestiona la cantidad de inventario que hay para vender y la cantidad que falta|
+| Flujo básico | El administrador deberá de tener el sistema actualizado para que se vea en el catálogo, asimismo el cliente comprará el producto y el administrador deberá de actualizar la base del sistema con respecto a la demanda que haya. Una vez casi sin producto o sin producto el administrador tendrá que pedir más inventario para poder satisfacer la demanda de los clientes|
+| Pre-condiciones | Conteo de stock y demanda de clientes |  
+| Post-condiciones  | No tener stock o casi sin stock para posterirmente pedir el producto o otro|  
+|  Requerimientos | Registros y demanda de los clientes|
+|  Notas |  No hay |
+| Autor  | Lili Guo Zeng |
+|Fecha | 23/01/2024 |

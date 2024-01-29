@@ -126,7 +126,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |              | 4. Puede que en algún momento este vuelo se cancele por diferentes razones|  
   | Pre-condiciones | Situación adversa que impida el despegue del avión  | 
   | Post-condiciones  | Se le dará aviso a los pasajero y se procederá a ejecutar lo que la empresa tenga previsto para estos casos | 
-    | Excepciones | 1. No se consigue hacer la compra |
+  | Excepciones | 1. No se consigue hacer la compra |
 |             | 2. Hay errores la actualización de vuelos |
 |             | 3. La web da fallas a nivel diseño |
 |             | 4. No se especifica el tipo de maleta que de debe llevar |

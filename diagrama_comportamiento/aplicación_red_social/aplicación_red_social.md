@@ -2,6 +2,7 @@
 
 En este ejercicio procederemos a analizar el diagrama de comportamiento de la siguiente imagen: 
 
+![image](https://github.com/liliguoz/ETS/assets/145054491/c4f40214-fb1b-4abd-a2e8-84e0497efc0e)
 
 ## Actores
 
@@ -101,7 +102,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |Fecha | 29/01/2024 |
   
    ---
-    #### Conectar con amigos
+  #### Conectar con amigos
 
   |  Caso de Uso	CU | Conectar con amigos  |
   |---|---|

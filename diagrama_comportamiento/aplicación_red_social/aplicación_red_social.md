@@ -79,7 +79,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |Fecha | 29/01/2024 |
 
   ---
-    #### Publicar mensaje
+  #### Publicar mensaje
 
   |  Caso de Uso	CU | Gestionar aplicación  |
   |---|---|

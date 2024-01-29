@@ -39,9 +39,16 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 | Fuentes  | Reserva de vuelos |
 | Actor  |  Pasajero y agente de reservas |
 | Descripción | Gestión de trámites por los cuales una maleta tiene que ser aceptada para entrar  |
-| Flujo básico | Para empezar, el agente dentrá que tener todos los vuelos actualizados con sus respectivos horios para que el apsajero decida cuál es el mejor para él en lo que respecta a su situación. Asimismo, una vez reservado el vuelo y hacer los trámites corresponientes deberá de destionar tanto el agente como el pasajero la maleta. El pasajero deberá llevar en ella todo lo que le sea útil y posible de llevar, mientras que el agente deberá de concretar en el billete del avión la maleta que llevará con el máximo de kilos |
-| Pre-condiciones | El apsajero debe haber comprado el billete con las especificaciones de su maleta sin sobrepasar los máximos de peso, además deberá aportar la documentación correspondiente apra ser identificado  |  
+| Flujo básico | 1. El agente dentrá que tener todos los vuelos actualizados|
+|              | 2. El pasajero decidirá cuál es el mejor para él en lo que respecta a su situación |
+|              | 3. Trámites corresponientes de la maleta |
+|              | 4. El agente deberá de concretar en el billete del avión la maleta que llevará con el máximo de kilos |
+| Pre-condiciones | El pasajero debe haber comprado el billete con las especificaciones de su maleta sin sobrepasar los máximos de peso, además deberá aportar la documentación correspondiente apra ser identificado  |  
 | Post-condiciones  | Una vez hecho todo lo anterior de forma corresta, el pasajero lo unico que puede hacer es esperar a llegar a su destino y ahí esperar a que su maleta llegue a la cinta para poder recogerla  |  
+| Excepciones | 1. No se consigue hacer la compra |
+|             | 2. Hay errores la actualización de vuelos |
+|             | 3. La web da fallas a nivel diseño |
+|             | 4. No se especifica el tipo de maleta que de debe llevar |
 |  Requerimientos | DNI y billete de avión  |
 |  Notas |  No hay |
 | Autor  | Lili Guo Zeng |
@@ -55,9 +62,12 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Pasajero  |
   | Descripción | Momento inicial donde se buscan ofertas de vuelos diferentes  |
-  | Flujo básico | El pasajero por diferentes cuestione, ya se aporque está de vacaciones o otras desea buscar un vuelo a un destino, asimismo empezará a buscarlo en el busquedador|
+  | Flujo básico | 1. El pasajero busca un vuelo a un destino |
+  |              | 2. Buscará el vuelo por un buscador |
   | Pre-condiciones | Ganas/Deber ir de viaje  |  
   | Post-condiciones  | Una vez encontrado el vuelo deberá pagarlo y aportar la documentación necesaria  |  
+  | Excepciones | 1. Hay errores la actualización de vuelos |
+  |             | 2. La web da fallas a nivel diseño |
   |  Requerimientos | DNI y dinero  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -71,9 +81,14 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Pasajero  |
   | Descripción | Se formaliza la reserva del vuelo  |
-  | Flujo básico | Los agentes de vuelos teniendo la información de los actualizada de los vuelos y una vez consultadas las diferenters ofertas donde el pasajero decidirá cuál es la que más le gusta reservará el billete |
+  | Flujo básico | 1. Los agentes de vuelos actualizan los vuelos|
+  |              | 2. El pasajero decidirá cuál es la que más le gusta reservará el billete |
   | Pre-condiciones | Ganas/Deber ir de viaje  |  
-  | Post-condiciones  | Una vez encontrado el vuelo deberá pagarlo y aportar la documentación necesaria  |  
+  | Post-condiciones  | Una vez encontrado el vuelo deberá pagarlo y aportar la documentación necesaria  |
+  | Excepciones | 1. No se consigue hacer la compra |
+|             | 2. Hay errores la actualización de vuelos |
+|             | 3. La web da fallas a nivel diseño |
+|             | 4. No se especifica el tipo de maleta que de debe llevar |
   |  Requerimientos | DNI y dinero  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -87,9 +102,11 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Agentes de reservas  |
   | Descripción | Se actualizan los precios, horarios, etc de los vuelos  |
-  | Flujo básico | Los agentes de vuelos tendrán que gestionar toda la información para poder ser mostrada al público |
+  | Flujo básico | 1. Los agentes de vuelos tendrán que gestionar toda la información para poder ser mostrada al público |
   | Pre-condiciones | Información de los vuelos  |  
   | Post-condiciones  | Una vez actualizados los datos de los vuelos serán actualizados en la página web |  
+  | Excepciones | 1. La web da fallas a nivel diseño |
+|             | 2. Hay errores la actualización de vuelos |
   |  Requerimientos | Información  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -103,9 +120,17 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Reserva de vuelos |
   | Actor  |  Agentes de reservas  |
   | Descripción | Momento en el cuál el vuelo por diferentes razones se tiene que cancelar  |
-  | Flujo básico | Una vez los agentes de reservas hayan tenido todos los datos actualziados, el pasajero buscará una oferta de vuelo que quiera y por tanto procederá a reservar el vuelo con toda la gestión de la maleta. Sin embargo puede que en algún momento este vuelo se cancele por diferentes razones|  
+  | Flujo básico | 1. Los agentes de reservas tendrá todos los datos actualizados |
+  |              | 2. El pasajero buscará una oferta de vuelo que quiera |
+  |              | 3. Se reserva el vuelo con toda la gestión de la maleta |
+  |              | 4. Puede que en algún momento este vuelo se cancele por diferentes razones|  
   | Pre-condiciones | Situación adversa que impida el despegue del avión  | 
-  | Post-condiciones  | Se le dará aviso a los pasajero y se procederá a ejecutar lo que la empresa tenga previsto para estos casos |  
+  | Post-condiciones  | Se le dará aviso a los pasajero y se procederá a ejecutar lo que la empresa tenga previsto para estos casos | 
+    | Excepciones | 1. No se consigue hacer la compra |
+|             | 2. Hay errores la actualización de vuelos |
+|             | 3. La web da fallas a nivel diseño |
+|             | 4. No se especifica el tipo de maleta que de debe llevar |
+|             | 5. Errores de registro de datos |
   |  Requerimientos | Información, billete de avión, DNI, dinero  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |

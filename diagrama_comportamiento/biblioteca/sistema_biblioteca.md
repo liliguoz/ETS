@@ -40,9 +40,11 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Sistema de una biblioteca  |
   | Actor  |  Bibliotecario y usuario  |
   | Descripción | Momento en el cual el se busca un libro y tanto el usuario como el bibliotecario pueden realizar la acción  |
-  | Flujo básico | El usuario entra a la biblioteca para buscar un libro donde lo podrá encontrar en las estanterías clasificadas correspondientes al género del libro, sin embargo si no encuentra el libro este pedirá ayuda al bibliotecario |
+  | Flujo básico | 1. El usuario entra a la biblioteca para buscar un libro 
+  |              |  2. Si no encuentra el libro este pedirá ayuda al bibliotecario |
   | Pre-condiciones | Debe estar el usario registrado en la biblioteca  |  
-  | Post-condiciones  | Una vez encontrado el libro se tendrá que actualizar el estado del libro que va a ser prestado |  
+  | Post-condiciones  | Una vez encontrado el libro se tendrá que actualizar el estado del libro que va a ser prestado |
+  |Excepciones | 1. El libro que se desea no se encuentre en la biblioteca |
   |  Requerimientos | Debe de estar registrado en la base de datos de la biblioteca  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -56,9 +58,15 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Sistema de una biblioteca  |
   | Actor  |  Usuario  |
   | Descripción | Momento en el cual el se busca un libro y tanto el usuario como el bibliotecario pueden realizar la acción  |
-  | Flujo básico | El usuario entra a la biblioteca para buscar un libro donde lo podrá encontrar en las estanterías clasificadas correspondientes al género del libro, sin embargo si no encuentra el libro este pedirá ayuda al bibliotecario. Asimismo, para que pueda ser prestado el libro el usuario tendrá que tener cuenta en la biblioteca para saber a quien se le está prestado y asigarle el día máximo de devolución. Una vez llegado el día máximo el usuario tendrá la responsabilidad de devolver el libro antes de el día máximo. |
+  | Flujo básico | 1. El usuario entra a la biblioteca para buscar un libro
+  |              | 2. Si no encuentra el libro este pedirá ayuda al bibliotecario
+  |              | 3. El usuario tendrá que tener cuenta en la biblioteca 
+  |              | 4. Una vez llegado el día máximo el usuario tendrá la responsabilidad de devolver el libro antes de el día máximo. |
   | Pre-condiciones | Debe estar el usario registrado en la biblioteca y además que la base de datos de la biblioteca se actualice y le dé una fecha máxima al usuario  |  
-  | Post-condiciones  | El usuario deberá de devolver el libro antes del día indicado y además tendrá que devolverlo buenas condiciones |  
+  | Post-condiciones  | El usuario deberá de devolver el libro antes del día indicado y además tendrá que devolverlo buenas condiciones | 
+  | Excepciones | 1. No se encuentra el libro que se desea|
+  |             | 2. No se tiene cuenta|
+  |             | 3. No se entrega en el periodo máximo, por tanto hay sanción |
   |  Requerimientos | Debe de estar registrado en la base de datos de la biblioteca  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -72,9 +80,13 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Sistema de una biblioteca  |
   | Actor  |  Usuario y bibliotecario  |
   | Descripción | Acto en el que el usuario quiere que le presten un libro y el bibliotecario tiene que realizar la operación de el péstamo en la base de datos  |
-  | Flujo básico | El usuario entra a la biblioteca para buscar un libro donde lo podrá encontrar en las estanterías clasificadas correspondientes al género del libro, sin embargo si no encuentra el libro este pedirá ayuda al bibliotecario. Asimismo, para que pueda ser prestado el libro el usuario tendrá que tener cuenta en la biblioteca para saber a quien se le está prestado y asigarle el día máximo de devolución |
+  | Flujo básico | 1. El usuario entra a la biblioteca para buscar un libro |
+  |              | 2. Si no encuentra el libro este pedirá ayuda al bibliotecario |
+  |              | 3. El usuario tendrá que tener cuenta en la biblioteca|
   | Pre-condiciones | Debe estar el usario registrado en la biblioteca |  
-  | Post-condiciones  | El usuario deberá de devolver el libro antes del día indicado y además tendrá que devolverlo buenas condiciones |  
+  | Post-condiciones  | El usuario deberá de devolver el libro antes del día indicado y además tendrá que devolverlo buenas condiciones |
+  | Excepciones | 1. No se encuentra el libro que se desea|
+  |             | 2. No se tiene cuenta|
   |  Requerimientos | Debe de estar registrado en la base de datos de la biblioteca  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -88,9 +100,11 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Sistema de una biblioteca  |
   | Actor  |  Usuario y bibliotecario  |
   | Descripción | Acto en el que el usuario se registra en la base de datos para crearse una cuenta con la que poder identificarse y poder prestar libros |
-  | Flujo básico | El usuario se registra en base de datos de la biblioteca y se identifica con sus datos, el administrador que en este caso es el bibliotecario registrará todos estos datos y dará pie a la creación de la cuenta. |
+  | Flujo básico | 1. El usuario se registra en base de datos de la biblioteca y se identifica con sus datos 
+  |              | 2. El administrador que en este caso es el bibliotecario registrará todos estos datos y dará pie a la creación de la cuenta. |
   | Pre-condiciones | El usuario debe de entregar sus documentos de identidad y datos |  
   | Post-condiciones  | El usuario una vez registrado podrá realizar los préstamos de libros |  
+  | Excepciones | 1. Los datos en el registro no están bien rellenados|
   |  Requerimientos | Tarjeta de identidad y foto  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |

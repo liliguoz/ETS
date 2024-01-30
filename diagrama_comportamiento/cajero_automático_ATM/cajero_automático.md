@@ -53,7 +53,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Autor  | Lili Guo Zeng |
   |Fecha | 23/01/2024 |
 
-  ---
+---
 #### Poner dinero al móvil
 
   |  Caso de Uso	CU | Poner dinero al móvil |
@@ -75,7 +75,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Autor  | Lili Guo Zeng |
   |Fecha | 23/01/2024 |
 
-    ---
+---
 #### Realizar transferencia
 
   |  Caso de Uso	CU | Realizar transferencia |
@@ -97,7 +97,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Autor  | Lili Guo Zeng |
   |Fecha | 23/01/2024 |
 
-    ---
+---
 #### Ingresar dinero
 
   |  Caso de Uso	CU | Ingresar dinero |
@@ -119,7 +119,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |  Notas | No hay |
   | Autor  | Lili Guo Zeng |
 
-      ---
+  ---
 #### Ver saldo 
 
   |  Caso de Uso	CU | Ver saldo |
@@ -143,7 +143,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Autor  | Lili Guo Zeng |
   |Fecha | 23/01/2024 |
 
-        ---
+  ---
 #### Retirar dinero
 
   |  Caso de Uso	CU | Retirar dinero |
@@ -168,7 +168,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Autor  | Lili Guo Zeng |
   |Fecha | 23/01/2024 |
 
-          ---
+  ---
 #### Revisar el cajero automático
 
   |  Caso de Uso	CU | Revisar el cajero automático |

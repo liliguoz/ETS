@@ -117,3 +117,9 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng|
   |Fecha | 12/02/2024 |
+
+---
+
+## Diagrama de secuencias
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/0d68ca00-89b7-48bf-9630-950bfc82e0f9)

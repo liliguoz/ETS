@@ -39,17 +39,10 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Aplicacion de red social  |
   | Actor  |  Usuario y administrador |
   | Descripción | En este caso el usuario querrá eliminar una publicación|
-  | Flujo básico | 1. El usuario se registra en la aplicación |
-  |              | 2. El administrador con los nuevos registros actualiza la aplicación |
-  |              | 3. El usuario ya dentro, publicará una publicación |
-  |              | 4. El administrador se encarga de que todas las publicaciones estén actualziadas |
-  |              | 5. El usuario posteriormente decide eliminar la publicación |
+  | Flujo básico | 1. El usuario se registra en la aplicación <br> 2. El administrador con los nuevos registros actualiza la aplicación <br> 3. El usuario ya dentro, publicará una publicación >br> 4. El administrador se encarga de que todas las publicaciones estén actualziadas <br> 5. El usuario posteriormente decide eliminar la publicación |
   | Pre-condiciones | Registro en la aplicación, actualización de datos de la aplicación  |  
   | Post-condiciones  | El administrador borra la publicación de la aplicación  |
-  | Excepciones | 1. No se registra bien el usuario|
-  |             | 2. La aplicación no consigue actualizar los datos | 
-  |             | 3. No se puede subir la publicación, ya sea por falta de internet, etc
-  |             | 4. La publicación da error y no se puede borrar |
+  | Excepciones | 1. No se registra bien el usuario <br> 2. La aplicación no consigue actualizar los datos <br> 3. No se puede subir la publicación, ya sea por falta de internet, etc <br> 4. La publicación da error y no se puede borrar |
   |  Requerimientos | Datos de identificación, wifi, dispositivo capaz de utilizar la aplicación  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -63,16 +56,10 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Aplicacion de red social  |
   | Actor  |  Administrador |
   | Descripción | Actualización, arreglo de fallos e implementación de nuevas herramientas en la aplicacion|
-  | Flujo básico | 1. El usuario se registra en la aplicación |
-  |              | 2. El administrador con los nuevos registros actualiza la aplicación |
-  |              | 3. El usuario ya dentro, publicará una publicación |
-  |              | 4. El administrador se encarga de que todas las publicaciones estén actualizadas |
+  | Flujo básico | 1. El usuario se registra en la aplicación <br> 2. El administrador con los nuevos registros actualiza la aplicación <br> 3. El usuario ya dentro, publicará una publicación <br> 4. El administrador se encarga de que todas las publicaciones estén actualizadas |
   | Pre-condiciones | Registro en la aplicación, actualización de datos de la aplicación  |  
   | Post-condiciones  | El administrador tendrá que tener la aplicación al día con todos los nuevos datos de los usuarios |
-  | Excepciones | 1. No se registra bien el usuario|
-  |             | 2. La aplicación no consigue actualizar los datos | 
-  |             | 3. No se puede subir la publicación, ya sea por falta de internet, etc
-  |             | 4. La publicación da error y no se puede borrar |
+  | Excepciones | 1. No se registra bien el usuario <br> 2. La aplicación no consigue actualizar los datos <br> 3. No se puede subir la publicación, ya sea por falta de internet, etc <br> 4. La publicación da error y no se puede borrar |
   |  Requerimientos | Datos de identificación, wifi, dispositivo capaz de utilizar la aplicación  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -86,16 +73,10 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Aplicacion de red social  |
   | Actor  |  Usuario |
   | Descripción | El usuario publica mensajes que comaprtirá en sus redes|
-  | Flujo básico | 1. El usuario se registra en la aplicación |
-  |              | 2. El administrador con los nuevos registros actualiza la aplicación |
-  |              | 3. El usuario ya dentro, publicará un mensaje |
-  |              | 4. El administrador se encarga de que todos los mensajes estén actualizados |
+  | Flujo básico | 1. El usuario se registra en la aplicación <br> 2. El administrador con los nuevos registros actualiza la aplicación <br> 3. El usuario ya dentro, publicará un mensaje <br> 4. El administrador se encarga de que todos los mensajes estén actualizados |
   | Pre-condiciones | Registro en la aplicación, actualización de datos de la aplicación  |  
   | Post-condiciones  | El administrador tendrá que tener la aplicación al día con todos los nuevos datos de los usuarios |
-  | Excepciones | 1. No se registra bien el usuario|
-  |             | 2. La aplicación no consigue actualizar los datos | 
-  |             | 3. No se puede subir la publicación, ya sea por falta de internet, etc
-  |             | 4. La publicación da error y no se puede borrar |
+  | Excepciones | 1. No se registra bien el usuario <br> 2. La aplicación no consigue actualizar los datos <br> 3. No se puede subir la publicación, ya sea por falta de internet, etc <br> 4. La publicación da error y no se puede borrar |
   |  Requerimientos | Datos de identificación, wifi, dispositivo capaz de utilizar la aplicación  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
@@ -109,18 +90,15 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
   | Fuentes  | Aplicacion de red social  |
   | Actor  |  Usuario |
   | Descripción | El usuario publica mensajes que compartirá en sus redes|
-  | Flujo básico | 1. El usuario se registra en la aplicación |
-  |              | 2. El administrador con los nuevos registros actualiza la aplicación |
-  |              | 3. El usuario ya dentro, publicará un mensaje |
-  |              | 4. El administrador se encarga de que todos los mensajes estén actualizados |
-  |              | 5. El usuario podrá conectar con amigos con el uso de mensaje, videollamada o llamada | 
+  | Flujo básico | 1. El usuario se registra en la aplicación <br> 2. El administrador con los nuevos registros actualiza la aplicación <br> 3. El usuario ya dentro, publicará un mensaje <br> 4. El administrador se encarga de que todos los mensajes estén actualizados <br>  5. El usuario podrá conectar con amigos con el uso de mensaje, videollamada o llamada | 
   | Pre-condiciones | Registro en la aplicación, actualización de datos de la aplicación  |  
   | Post-condiciones  | El administrador tendrá que tener la aplicación al día con todos los nuevos datos de los usuarios |
-  | Excepciones | 1. No se registra bien el usuario|
-  |             | 2. La aplicación no consigue actualizar los datos | 
-  |             | 3. No se puede subir la publicación, ya sea por falta de internet, etc
-  |             | 4. La publicación da error y no se puede borrar |
+  | Excepciones | 1. No se registra bien el usuario <br> 2. La aplicación no consigue actualizar los datos <br> 3. No se puede subir la publicación, ya sea por falta de internet, etc <br> 4. La publicación da error y no se puede borrar |
   |  Requerimientos | Datos de identificación, wifi, dispositivo capaz de utilizar la aplicación  |
   |  Notas |  No hay |
   | Autor  | Lili Guo Zeng |
   |Fecha | 29/01/2024 |
+
+## Diagrama de secuencia
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/66a8084f-23ac-4359-ba3e-5580a6954178)

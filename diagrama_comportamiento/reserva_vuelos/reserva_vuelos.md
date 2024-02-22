@@ -120,3 +120,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 ## Diagrama de secuencia
 
 ![image](https://github.com/liliguoz/ETS/assets/145054491/582b7296-5174-462f-9b51-818acab6ecb0)
+
+## Diagrama de actividad
+
+![reserva_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/7504788e-05e9-4469-b623-a6d2bd6d4969)
+

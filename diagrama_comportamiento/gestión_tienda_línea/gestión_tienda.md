@@ -113,3 +113,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 |  Notas |  No hay |
 | Autor  | Lili Guo Zeng |
 |Fecha | 23/01/2024 |
+
+## Diagrama de actividad
+
+![gestión_tienda_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/9bc96f1d-a3c4-468e-be1e-ab4fd215aead)

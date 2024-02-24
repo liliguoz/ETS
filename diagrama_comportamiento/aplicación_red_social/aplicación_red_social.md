@@ -102,3 +102,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 ## Diagrama de secuencia
 
 ![image](https://github.com/liliguoz/ETS/assets/145054491/66a8084f-23ac-4359-ba3e-5580a6954178)
+
+## Diagrama de actividades
+
+![aplicación_red_social_diagr_actividades](https://github.com/liliguoz/ETS/assets/145054491/bf47a784-6c85-4b70-aa90-cba8f5ba00d0)
+

@@ -194,3 +194,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 ## Diagrama de secuencia
 
 ![image](https://github.com/liliguoz/ETS/assets/145054491/bf2fb518-b356-4d68-9c6f-ef4fc9568a44)
+
+## Diagrama de actividad
+
+![ATM_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/7f92aed3-cdc0-4f4f-9720-c7337b2fbd5c)
+

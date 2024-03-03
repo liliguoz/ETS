@@ -108,3 +108,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![biblioteca_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/bc7fcc8a-2c62-468e-b7a9-0b3403434153)
 
+## Diagrama de clases
+
+![biblioteca_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/1bb8a174-87be-451f-bbe9-154ceec490f5)
+

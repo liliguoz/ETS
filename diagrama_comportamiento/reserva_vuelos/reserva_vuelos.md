@@ -125,3 +125,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![reserva_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/7504788e-05e9-4469-b623-a6d2bd6d4969)
 
+## Diagrama de clases
+
+![gestión_vuelos](https://github.com/liliguoz/ETS/assets/145054491/4c4e5873-dc80-416f-9011-81eed0e819a3)
+
+

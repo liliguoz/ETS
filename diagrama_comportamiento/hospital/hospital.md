@@ -4,6 +4,7 @@
 
 ## Diagrama de clases
 
-![hospital_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/8f6aa9f9-81d7-4194-bd46-fe66aef33e7c)
+![hospital_diagr_clases](https://github.com/liliguoz/ETS/assets/145054491/0f6330db-61df-41cc-9f0d-9878b23ae102)
+
 
 

@@ -107,3 +107,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![aplicación_red_social_diagr_actividades](https://github.com/liliguoz/ETS/assets/145054491/bf47a784-6c85-4b70-aa90-cba8f5ba00d0)
 
+## Diagrama de clases
+
+![red_social_diagr_clases](https://github.com/liliguoz/ETS/assets/145054491/ceeab679-740a-40f0-b930-2737e36f5d1c)
+
+

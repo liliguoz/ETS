@@ -199,3 +199,6 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![ATM_diagr_actividad](https://github.com/liliguoz/ETS/assets/145054491/7f92aed3-cdc0-4f4f-9720-c7337b2fbd5c)
 
+## Diagrama de clases
+
+![atm_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/0f9178be-24fb-4590-822a-1c24c9d65643)

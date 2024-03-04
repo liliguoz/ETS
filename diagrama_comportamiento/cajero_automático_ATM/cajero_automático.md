@@ -201,4 +201,4 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ## Diagrama de clases
 
-![atm_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/0f9178be-24fb-4590-822a-1c24c9d65643)
+![ATM_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/df7fea37-405d-46b8-bd19-e2852711ffb7)

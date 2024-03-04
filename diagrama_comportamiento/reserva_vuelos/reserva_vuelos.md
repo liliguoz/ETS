@@ -127,6 +127,6 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ## Diagrama de clases
 
-![gestión_vuelos](https://github.com/liliguoz/ETS/assets/145054491/4c4e5873-dc80-416f-9011-81eed0e819a3)
+![vuelo_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/adf76d0e-58b4-41b7-9f45-9963c4232b5c)
 
 

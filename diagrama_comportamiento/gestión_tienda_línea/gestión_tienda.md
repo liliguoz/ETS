@@ -120,5 +120,5 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ## Diagrama de clases
 
-![tienda_online_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/5ba28d5f-b56d-4210-bef0-e506ccabf077)
+![red_social_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/e6de2d92-23ce-45c9-8054-b3baa7376092)
 

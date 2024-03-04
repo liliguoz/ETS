@@ -109,6 +109,6 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ## Diagrama de clases
 
-![red_social_diagr_clases](https://github.com/liliguoz/ETS/assets/145054491/ceeab679-740a-40f0-b930-2737e36f5d1c)
+![red_social_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/b9dc625e-4450-48db-9847-14bbea4df21d)
 
 

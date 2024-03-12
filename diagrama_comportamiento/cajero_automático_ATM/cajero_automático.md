@@ -203,7 +203,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![ATM_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/df7fea37-405d-46b8-bd19-e2852711ffb7)
 
-## Daigrama de objetos
+## Diagrama de objetos
 
 ![image](https://github.com/liliguoz/ETS/assets/145054491/cce546c3-be98-4060-8b9a-60282daf1964)
 

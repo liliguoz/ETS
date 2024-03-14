@@ -129,4 +129,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![vuelo_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/adf76d0e-58b4-41b7-9f45-9963c4232b5c)
 
+## Diagrama de objetos
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/a48c8c51-7f0d-4311-a33d-af25fbadebe6)
 

@@ -111,4 +111,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![red_social_diagr_clase](https://github.com/liliguoz/ETS/assets/145054491/b9dc625e-4450-48db-9847-14bbea4df21d)
 
+## Diagrama de objetos
+
+![red_social_diagr_obj](https://github.com/liliguoz/ETS/assets/145054491/4a94ac8f-ede5-45c7-9463-1fa338ae9cd6)
+
 

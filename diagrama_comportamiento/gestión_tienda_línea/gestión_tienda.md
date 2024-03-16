@@ -122,3 +122,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![gestion_tienda_diagr_clases](https://github.com/liliguoz/ETS/assets/145054491/6d04e877-6216-4667-b051-4e4ca659c172)
 
+## Diagrama de objetos
+
+![tienda_online_diagr_obj](https://github.com/liliguoz/ETS/assets/145054491/78688626-05d7-4b4c-add2-1134cafea71c)
+
+

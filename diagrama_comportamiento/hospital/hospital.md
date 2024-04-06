@@ -9,3 +9,7 @@
 ## Diagrama de objetos
 
 ![hospital_diagr_obj](https://github.com/liliguoz/ETS/assets/145054491/3092edb0-58bf-4e99-9587-159fd106f82a)
+
+## Diagrama de paquetes
+
+

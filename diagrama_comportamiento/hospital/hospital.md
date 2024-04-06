@@ -12,4 +12,6 @@
 
 ## Diagrama de paquetes
 
+![image](https://github.com/liliguoz/ETS/assets/145054491/16067bc2-d4eb-4c8f-8393-4cf83cc328d5)
+
 

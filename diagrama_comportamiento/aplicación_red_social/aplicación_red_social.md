@@ -115,4 +115,9 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![red_social_diagr_obj](https://github.com/liliguoz/ETS/assets/145054491/4a94ac8f-ede5-45c7-9463-1fa338ae9cd6)
 
+## Diagrama de paquetes
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/63988d82-2bff-4c3d-a1c0-2a1eb651b3aa)
+
+
 

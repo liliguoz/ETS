@@ -12,11 +12,5 @@
 
 ## Diagrama de paquetes
 
-![image](https://github.com/liliguoz/ETS/assets/145054491/16067bc2-d4eb-4c8f-8393-4cf83cc328d5)
+![image](https://github.com/liliguoz/ETS/assets/145054491/4b2f8847-c31f-45ed-a51f-6db4353ed816)
 
-El sistema de paquetes anterior representa la estructura de un sistema hospitalario, organizado de acuerdo con el patrón de diseño Modelo-Vista-Controlador (MVC). Aquí tienes una breve explicación de cada parte y sus relaciones:
-
-**Paquetes de Modelos (Pacientes, Doctores, Citas, Tratamientos)**:
-   - Cada uno de estos paquetes contiene las clases y la lógica relacionada con la gestión de datos específicos del sistema hospitalario, como la información de pacientes, doctores, citas, tratamientos.
-
-En resumen, el sistema de paquetes está diseñado para separar las preocupaciones en el sistema hospitalario, lo que facilita el desarrollo, el mantenimiento y la escalabilidad del sistema. Los modelos contienen los datos y la lógica de negocio, las vistas manejan la interfaz de usuario y los controladores coordinan la interacción entre las vistas y los modelos. Las relaciones entre estos componentes permiten un flujo eficiente de datos y operaciones en el sistema.

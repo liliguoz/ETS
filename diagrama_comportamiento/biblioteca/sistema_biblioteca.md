@@ -118,5 +118,7 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ## Diagrama de paquetes
 
+![image](https://github.com/liliguoz/ETS/assets/145054491/b7e0ff47-2a9c-4871-a274-b97d7c4a8a4f)
+
 
 

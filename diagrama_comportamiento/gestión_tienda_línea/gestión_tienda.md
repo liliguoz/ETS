@@ -126,4 +126,9 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![tienda_online_diagr_obj](https://github.com/liliguoz/ETS/assets/145054491/78688626-05d7-4b4c-add2-1134cafea71c)
 
+## Diagrama de paquetes
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/ef09ac04-ec9b-4d8d-95c8-9363c586c69a)
+
+
 

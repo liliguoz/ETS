@@ -133,3 +133,8 @@ En este ejercicio procederemos a analizar el diagrama de comportamiento de la si
 
 ![image](https://github.com/liliguoz/ETS/assets/145054491/a48c8c51-7f0d-4311-a33d-af25fbadebe6)
 
+## Diagrama de paquetes
+
+![image](https://github.com/liliguoz/ETS/assets/145054491/f691cd1e-681f-4f2f-a7f1-ee4b2bc17e76)
+
+

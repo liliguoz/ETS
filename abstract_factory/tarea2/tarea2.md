@@ -149,7 +149,7 @@ La función `cliente_vehicle_code` toma dos argumentos: `factory`, que es una in
 
 Dentro de la función, se llama al método `get_vehicle` de la fábrica pasándole el tipo de vehículo como argumento. Esto devuelve una instancia del vehículo deseado. Luego, se llama al método `deliver()` en este vehículo, que devuelve un mensaje indicando que el vehículo ha sido entregado. Finalmente, este mensaje se imprime en la consola.
 
-# Main.py
+## Main.py
 
 Este código define dos fábricas concretas, `CarFactory` y `TruckFactory`, que heredan de la clase abstracta `VehicleFactory`. Cada fábrica implementa el método `get_vehicle` para crear y devolver instancias específicas de vehículos. Aquí está la explicación en párrafos:
 

@@ -1,3 +1,5 @@
+![alt text](./img/foto_encabezado.png)
+
 El patrón de diseño creacional Factory, también conocido como Factory Method, es un patrón que proporciona una interfaz para crear objetos en una superclase, pero permite a las subclases alterar el tipo de objetos que se crearán. Este patrón es útil cuando el proceso de creación de un objeto es complejo, requiere decisiones condicionales, o necesita flexibilidad para instanciar diferentes clases según el contexto.
 
 ### Principales Características del Patrón Factory:
@@ -27,7 +29,7 @@ El patrón de diseño creacional Factory, también conocido como Factory Method,
 
 ### Ejemplo:
 
-![alt text](image.png)
+![](./img/image.png)
 
 ![alt text](img/diagrama.drawio.png)
 ### Ventajas del Patrón Factory:
